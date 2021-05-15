@@ -74,3 +74,9 @@ You'll have access to a third dataset with attributes from targets of a mail ord
 
 3. Kaggle Competition
 Once you've chosen a model, you'll use it to make predictions on the campaign data as part of a Kaggle Competition. You'll rank the individuals by how likely they are to convert to being a customer, and see how your modeling skills measure up against your fellow students.
+
+## Project "Starbucks"
+
+[![Starbucks Final Project](https://github.com/Nov05/pictures/blob/cbd7bf6339d60771c6a4341aa5692e9b15d34455/Udacity/2021-05-15%20machine%20learning%20engineer/2021-05-15%2015_53_09-Machine%20Learning%20Engineer%20Nanodegree%20-%20Udacity-min.jpg)](https://youtu.be/bq-H7M5BU3U)
+
+
