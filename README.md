@@ -52,9 +52,9 @@ No matter what project you decide to complete, you will want to make sure to che
 
 [![Arvato Final Project](https://github.com/Nov05/pictures/blob/da2bcfd48ed2930e3686675454764ce38b7e8760/Udacity/2021-05-15%20machine%20learning%20engineer/2021-05-15%2015_40_50-Machine%20Learning%20Engineer%20Nanodegree%20-%20Udacity-min.jpg)](https://youtu.be/qBR6A0IQXEE)
 
-https://www.kaggle.com/c/udacity-arvato-identify-customers/
-
 ### Udacity + Arvato Financial Solutions: Identify Customers from a Mailout Campaign
+
+https://www.kaggle.com/c/udacity-arvato-identify-customers/
 
 This competition is connected to one of Udacity's capstone project options for the Data Science Nanodegree program, in connection with Arvato Financial Solutions, a Bertelsmann subsidiary.
 
@@ -79,4 +79,25 @@ Once you've chosen a model, you'll use it to make predictions on the campaign da
 
 [![Starbucks Final Project](https://github.com/Nov05/pictures/blob/cbd7bf6339d60771c6a4341aa5692e9b15d34455/Udacity/2021-05-15%20machine%20learning%20engineer/2021-05-15%2015_53_09-Machine%20Learning%20Engineer%20Nanodegree%20-%20Udacity-min.jpg)](https://youtu.be/bq-H7M5BU3U)
 
+## CNN Project "Dog Breed Classifier"
+
+### Project Overview
+Welcome to the Convolutional Neural Networks (CNN) project! In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+
+Along with exploring state-of-the-art CNN models for classification, you will make important design decisions about the user experience for your app. Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. Your imperfect solution will nonetheless create a fun user experience!
+
+### Project Instructions
+Clone the project from the GitHub [repository](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification). Follow the instructions in the README to complete the project.
+
+Evaluation
+Your project will be reviewed by a Udacity reviewer against the CNN project [rubric](https://review.udacity.com/#!/rubrics/2259/view). Review this rubric thoroughly, and self-evaluate your project before submission. All criteria found in the rubric must meet specifications for you to pass.
+
+Project Submission
+When you are ready to submit your project, collect the following files and compress them into a single archive for upload:
+
+1. The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
+2. An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
+3. Any additional images used for the project that were not supplied to you for the project. Please do not include the project data sets in the `dogImages/` or `lfw/` folders.
+
+Alternatively, your submission could consist of the GitHub link to your repository.
 
