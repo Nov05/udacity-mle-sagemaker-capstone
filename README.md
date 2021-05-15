@@ -3,7 +3,7 @@ Created on 2021-05-15 for Udacity Nano degree "Machine Learning Engineer"
 
 <br><br>
 
-## Project Overview
+## :point_right: Project Overview
 
 ### Build Your Machine Learning Project
 
@@ -52,7 +52,7 @@ No matter what project you decide to complete, you will want to make sure to che
 
 <br><br>
 
-## Project "Bertelsmann Arvato"
+## :point_right: Project "Bertelsmann Arvato"
 
 [![Arvato Final Project](https://github.com/Nov05/pictures/blob/da2bcfd48ed2930e3686675454764ce38b7e8760/Udacity/2021-05-15%20machine%20learning%20engineer/2021-05-15%2015_40_50-Machine%20Learning%20Engineer%20Nanodegree%20-%20Udacity-min.jpg)](https://youtu.be/qBR6A0IQXEE)
 
@@ -81,13 +81,13 @@ Once you've chosen a model, you'll use it to make predictions on the campaign da
 
 <br><br>
 
-## Project "Starbucks"
+## :point_right: Project "Starbucks"
 
 [![Starbucks Final Project](https://github.com/Nov05/pictures/blob/cbd7bf6339d60771c6a4341aa5692e9b15d34455/Udacity/2021-05-15%20machine%20learning%20engineer/2021-05-15%2015_53_09-Machine%20Learning%20Engineer%20Nanodegree%20-%20Udacity-min.jpg)](https://youtu.be/bq-H7M5BU3U)
 
 <br><br>
 
-## CNN Project "Dog Breed Classifier"
+## :point_right: CNN Project "Dog Breed Classifier"
 
 ### Project Overview
 Welcome to the Convolutional Neural Networks (CNN) project! In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
